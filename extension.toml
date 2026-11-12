@@ -1,0 +1,7 @@
+id = "elegant-theme"
+name = "Elegant Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["yx208"]
+description = "Elegant Ink Light: an eye-friendly ink-wash light theme with ink-tone text and muted traditional Chinese colors on warm rice-paper backgrounds."
+repository = "https://github.com/yx208/zed-elegant-theme"
